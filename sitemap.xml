@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://www.gurgaonservice.info/</loc>
     <lastmod>2025-07-19</lastmod>
-    <priority>1.0</priority>
+    <priority>1.00</priority>
   </url>
+
+  <url>
+    <loc>https://www.gurgaonservice.info/about</loc>
+    <lastmod>2025-07-10</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.gurgaonservice.info/contact</loc>
+    <lastmod>2025-07-05</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://www.gurgaonservice.info/services</loc>
+    <lastmod>2025-07-08</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.gurgaonservice.info/gallery</loc>
+    <lastmod>2025-07-15</lastmod>
+    <priority>0.75</priority>
+  </url>
+
 </urlset>
+
